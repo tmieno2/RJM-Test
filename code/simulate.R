@@ -1,2 +1,4 @@
 N <- 1000
-mean(rnorm(N))
+x <- rnorm(N)
+mean(x)
+sd(x)
